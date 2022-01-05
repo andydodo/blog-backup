@@ -1,0 +1,31 @@
+#disqus_thread, .duoshuo, .cloud-tie-wrapper, #SOHUCS, #gitment-ctn, #gitalk-container {
+	padding: 0 30px !important;
+	min-height: 20px;
+}
+
+#SOHUCS {
+	#SOHU_MAIN .module-cmt-list .block-cont-gw {
+		border-bottom: 1px dashed #c8c8c8 !important;
+	}
+}
+
+.comment {
+	.gt-comments-null {
+		display:none;
+	}
+	.gt-counts {
+		a {
+			color:black;
+			border-bottom:0;
+			pointer-events:none;
+		}
+	}
+	.gt-ico-tip {
+		display:none !important;
+	}
+	.gt-btn-public {
+		.gt-btn-text:after{
+			content:"(Ctrl+Enter)";
+		}
+	}
+}
