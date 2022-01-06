@@ -7,7 +7,7 @@
 	    "link": ["TRCgXV.jpg", "T2yq4x.jpg"],
 	    "text": ["美丽的千千", "大学时期,个人照片"],
 	    "type": ["image", "image"],
-	    "size": ["1080x1440", "1080x1440"]
+	    "size": "1080x1440"
 	    }
 	}]
 }
